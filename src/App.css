@@ -5,6 +5,7 @@
   margin-top: 50px;
   background-color: #1a1b21;
   border-radius: 10px;
+
 }
 
 img {
@@ -32,7 +33,7 @@ img {
 
 .info--website {
   font-size: 10px;
-  color: #f5f5f5;
+  color: #54e919;
   margin: 8px auto;
   font-weight: 400;
 }
@@ -82,6 +83,7 @@ img {
   width: 250px;
   margin: 0 auto;
   text-align: left;
+  
 }
 
 .about--title,
@@ -89,20 +91,24 @@ img {
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 30px;
   letter-spacing: 0em;
   margin: 25px 0 5px 0;
+  color: blue;
 }
 
 .about--para,
 .interests--para {
+  
   font-size: 10px;
   font-style: normal;
   font-weight: 400;
-  line-height: 15px;
+  line-height: 20px;
   letter-spacing: 0em;
   text-align: left;
   margin: 0;
+  
+  /* border: 1px solid black; */
 }
 
 .footer {
@@ -111,11 +117,15 @@ img {
   height: 65px;
   border-radius: 0 0 10px 10px;
   width: 100%;
+
+  
   /* justify-content: space-evenly; */
 }
 
 .footer > img {
-  margin: 19px 12px auto 12px;
+  margin-top: 19px;
+  margin-left: 50px;
   border-radius: 0;
+  
 }
 

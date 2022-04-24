@@ -1,17 +1,4 @@
 
-.id-info{
-  height: 300px;
-  width:200px ;
-  border: 2px solid black;
-}
-.about{
-  height: 300px;
-  width: 200px;
-  border: 2px solid black;
-}
-.social-icon{
-  height: 100px;
-  width: 30vh;
-  border: 2px solid gold;
-  background-color:white;
+.container{
+  /* background-color:rgb(212, 203, 203); */
 }
